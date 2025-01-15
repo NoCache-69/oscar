@@ -1,0 +1,12 @@
+Hey There,
+AOSP development for Oneplus Nord CE2 Lite 5G 
+Details:
+Manufacturer-Oneplus
+Codename-oscar
+Processor-Snapdragon 695 (SM6375)
+RAM-6/8 GB(LPDDR4X)
+Display- IPS LCD,2412*1080p (120Hz)
+Model-CPH2381
+Kernel Vesion-5.4.xx gki
+Battery-5000mAh
+
